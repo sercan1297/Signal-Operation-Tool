@@ -1,0 +1,2 @@
+# Signal-Operation-Tool
+ Signal Processing Application is an educational Python tool that allows users to create, visualize, and manipulate continuous and discrete time signals through an intuitive Tkinter-based GUI. The application supports generating elementary signals, performing operations such as addition, subtraction, multiplication, and convolution, and displaying the results with integrated Matplotlib plots. Ideal for students, it provides a hands-on approach to understanding fundamental concepts in signal processing.
